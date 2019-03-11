@@ -3,7 +3,7 @@ layout:     post
 title:      Open Github Pages for blogs
 subtitle:   Others
 date:       2018-09-24
-author:     Xin YAO
+author:     Boge
 catalog: true
 tags:
     - git
